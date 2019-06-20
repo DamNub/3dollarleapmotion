@@ -13,6 +13,7 @@ These are the plans to build a 3 dollar leap motion
 | BUTTON  | 0.01 |  
 | WIRE  | 0.10 |  
 |  -  |  - |  
+|  casing  |  - |  
 | PETG  | 0.30 |  
 | standoffs   | 0.20 |  
 | screws   |  0.24 |  
