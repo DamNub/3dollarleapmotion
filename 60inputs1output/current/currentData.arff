@@ -1,0 +1,68 @@
+@relation dataset
+
+@attribute ID numeric
+@attribute Time date 'yyyy/MM/dd HH:mm:ss:SSS'
+@attribute 'Training round' numeric
+@attribute inputs-1 numeric
+@attribute inputs-2 numeric
+@attribute inputs-3 numeric
+@attribute inputs-4 numeric
+@attribute inputs-5 numeric
+@attribute inputs-6 numeric
+@attribute inputs-7 numeric
+@attribute inputs-8 numeric
+@attribute inputs-9 numeric
+@attribute inputs-10 numeric
+@attribute inputs-11 numeric
+@attribute inputs-12 numeric
+@attribute inputs-13 numeric
+@attribute inputs-14 numeric
+@attribute inputs-15 numeric
+@attribute inputs-16 numeric
+@attribute inputs-17 numeric
+@attribute inputs-18 numeric
+@attribute inputs-19 numeric
+@attribute inputs-20 numeric
+@attribute inputs-21 numeric
+@attribute inputs-22 numeric
+@attribute inputs-23 numeric
+@attribute inputs-24 numeric
+@attribute inputs-25 numeric
+@attribute inputs-26 numeric
+@attribute inputs-27 numeric
+@attribute inputs-28 numeric
+@attribute inputs-29 numeric
+@attribute inputs-30 numeric
+@attribute inputs-31 numeric
+@attribute inputs-32 numeric
+@attribute inputs-33 numeric
+@attribute inputs-34 numeric
+@attribute inputs-35 numeric
+@attribute inputs-36 numeric
+@attribute inputs-37 numeric
+@attribute inputs-38 numeric
+@attribute inputs-39 numeric
+@attribute inputs-40 numeric
+@attribute inputs-41 numeric
+@attribute inputs-42 numeric
+@attribute inputs-43 numeric
+@attribute inputs-44 numeric
+@attribute inputs-45 numeric
+@attribute inputs-46 numeric
+@attribute inputs-47 numeric
+@attribute inputs-48 numeric
+@attribute inputs-49 numeric
+@attribute inputs-50 numeric
+@attribute inputs-51 numeric
+@attribute inputs-52 numeric
+@attribute inputs-53 numeric
+@attribute inputs-54 numeric
+@attribute inputs-55 numeric
+@attribute inputs-56 numeric
+@attribute inputs-57 numeric
+@attribute inputs-58 numeric
+@attribute inputs-59 numeric
+@attribute inputs-60 numeric
+@attribute outputs-1 {0,1,2,3,4}
+
+@data
