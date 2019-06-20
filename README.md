@@ -1,9 +1,9 @@
 #  3 dollar Leap Motion
-###These are the plans to build a 3 dollar leap motion
+### These are the plans to build a 3 dollar leap motion
 
-#####The circuit are based on a striped down arduino. that sends an encoded string of 6 datapoints from the light sensors(LDR) over serial. Data is read and analysed by wekinator and send through processing to convert gestures into computer commands. (autohotkey for PC and Applescript for MAC)
+##### The circuit are based on a striped down arduino. that sends an encoded string of 6 datapoints from the light sensors(LDR) over serial. Data is read and analysed by wekinator and send through processing to convert gestures into computer commands. (autohotkey for PC and Applescript for MAC)
 
-####Alot of the prices are based on bulk prices on aliexpress. which means its gonna take some searching to find it this cheap, but it is definitely possible. (maybe even cheaper!)
+#### Alot of the prices are based on bulk prices on aliexpress. which means its gonna take some searching to find it this cheap, but it is definitely possible. (maybe even cheaper!)
 
 | Name   |      Price      |
 |----------|-------------|
