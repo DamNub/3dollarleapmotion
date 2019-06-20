@@ -17,7 +17,7 @@ Alot of the prices are based on bulk prices on aliexpress. which means its gonna
 | BUTTON  | €0.01 |  
 | WIRE  | €0.10 |  
 |  -  |  - |  
-|  casing  |  - |  
+|  **casing**  |  - |  
 | PETG  | €0.30 |  
 | standoffs   | €0.20 |  
 | screws   |  €0.24 |  
