@@ -23,3 +23,15 @@ Alot of the prices are based on bulk prices on aliexpress. which means its gonna
 | screws   |  €0.24 |  
 | - | - |
 | GRAND TOTAL    |  €2.66  (3 $) |  
+
+### How to install
+1 Solder the circuit as shown on the schematic.
+2 Connect it to your computer and upload the 'SENSORTOSERIAL.ino' file.
+3 You can check with the serial monitor if everything is soldered correctly.
+4 Open processing and run 'sendserialosc.pde'.
+5 This will convert the serial data into osc that gets send to wekinator.
+6 Open wekinator inputhelper so and open '10framebuffer.inputproj' this will make it look at a burst instead of 1 moment in time. wekinator input helper sends osc data to port 6449
+7 Open 60inputs1output in Wekinator with port 6449. 
+8 Use wekinator to teach the leap gestures.
+9 open 'osctoapplescript.pde' with processing. This will convert the taught gestures into a openable applescript program.
+10 the setup should work now.
